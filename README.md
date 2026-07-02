@@ -224,17 +224,3 @@ Predicted Power (kW)      Fault Type & Alert
          Smart Solar Dashboard
      (Streamlit + Power BI)
 ════════════════════════════════════════
-```
-
----
-
-## 👩‍💻 Author
-
-**Nour Ashraf**
-New Mansoura University
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
