@@ -1,4 +1,4 @@
-# 🌞 Smart AI System for Solar Panel Energy Prediction and Fault Detection
+#  Smart AI System for Solar Panel Energy Prediction and Fault Detection
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-R²%3D0.9994-orange.svg)
